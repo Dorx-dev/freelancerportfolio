@@ -1,2 +1,2 @@
 # freelancer portfolio
-https://dorxdeveloper.github.io/freelancerportfolio/
+https://dorx-dev.github.io/freelancerportfolio/

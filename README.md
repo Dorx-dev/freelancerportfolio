@@ -1,2 +1,2 @@
-# freelancer portfolio
-https://dorx-dev.github.io/freelancerportfolio/
+# portfolio
+https://freelancerportfolio.vercel.app/
